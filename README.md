@@ -2,6 +2,14 @@
 
 A group project to build an ETL pipeline using Python, Pandas, and PostgreSQL to extract, transform, and load data about crowdfunding from Excel/CSV files into a relational database. 
 
+## Group Members
+- Alma Ontiveros
+- Maya Morad
+- Chorr-Kin Chin
+- Patrick Feeney
+- Rob Jowaisas
+- Magdalene Alva
+
 ## Features
 
 - Extract and transform crowdfunding and contact data from Excel files
@@ -15,8 +23,3 @@ A group project to build an ETL pipeline using Python, Pandas, and PostgreSQL to
 - Jupyter Notebook
 - MongoDB
 - Excel
-
-## Usage
-
-1. Run the Jupyter Notebook to extract and transform data, and create CSV files.
-2.
